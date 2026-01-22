@@ -1,4 +1,13 @@
-hi
+Action =
+Comedy =
+Drama =
+Horror =
+Romance =
+Scifi =
+Fantasy =
+Thriller =
+Animation =
+Documentary =
 
 
 
